@@ -8,6 +8,7 @@ public class SpringBootCrudApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCrudApplication.class, args);
+		System.out.println("swegger added in feature branch");
 	}
 
 }
